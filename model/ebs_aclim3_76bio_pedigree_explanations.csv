@@ -1,0 +1,77 @@
+Group,rep group from ebs_full,other pedigree notes
+transient_killers,NA,
+toothed_whales,,used overall lowest pedigree for all params
+gray_whales,NA,
+baleen_whales,fin_whales,biomass dominant group (>89% of group biomass). Also overall lowest quality pedigree.
+pinnipeds,resident_seals,biomass dominant group (>85% of group biomass). Also overall lowest quality pedigree.
+walrus_bd_seals,NA,
+nf_seal_juv,NA,
+nf_seal_adu,NA,
+ice_seals,NA,
+oth_birds,shearwater,biomass dominant group (>60% of group biomass). Also has overall lowest quality pedigree.
+murres_puffins,,same pedigree for both groups
+kittiwakes,NA,
+auklets,NA,
+fulmars,NA,
+albatross,NA,
+sharks,NA,
+pollock_juv,NA,
+pollock_adu,NA,
+pcod_juv,NA,
+pcod_adu,NA,
+herring,herring_adu,
+arrowtooth_juv,NA,
+arrowtooth_adu,NA,
+kamchatka,kamchatka_adu,
+gr_turbot_juv,NA,
+gr_turbot_adu,NA,
+halibut_juv,NA,
+halibut_adu,NA,
+yf_sole,yf_sole_adu,
+fh_sole,fh_sole_adu,
+nr_sole,nr_sole_adu,
+ak_plaice,NA,
+oth_flatfish,misc_flats,biomass dominant group and worst overall pedigree
+ak_skate,NA,
+oth_skate,NA,
+sablefish_juv,NA,
+sablefish_adu,NA,
+eelpouts,NA,
+deep_demersals,grenadiers,biomass dominant group (>99% of group biomass)
+pac_ocean_perch,NA,
+oth_rockfish,shortspine_thorns,biomass dominant group (>75% of group biomass)
+north_rockfish,NA,
+shortraker_rock,NA,
+rougheye_rock,NA,
+atka,atka_adu,
+shallow_demersals,misc_fish_shallow,lowest quality pedigree of the three groups
+lg_sculpins,NA,
+octopus,NA,
+squids,NA,
+salmon_returning,NA,
+salmon_smolts,NA,
+mycto_bathy,,same pedigree for all groups
+capelin,NA,
+sandlance,NA,
+oth_forage,,same pedigree for all groups
+bairdi,NA,
+king_crabs,NA,
+opilio,NA,
+pandalid,NA,
+ben_zooplankton,benthic amphipods,"only difference between the 4 groups was Q/B (0.6, 0.7, 0.7, 0.8). Benthic amphipod Q/B pedigree 0.7."
+snails_sea_stars,,same pedigree for all groups
+herb_echinoderms,,same pedigree for all groups
+misc_crabs,,same pedigree for all groups
+structural_epifauna,majority rules,5 of 6 had same pedigree (all but hydroids)
+infauna,,same pedigree for all groups
+jellyfish,NA,
+pel_zooplankton,majority rules,4 of 5 groups had same pedigree (all but pel_amphipods)
+euphausiids,NA,
+copepods,NA,
+pelagic_microbes,NA,
+benthic_microbes,NA,
+lg_phytoplankton,lg_phytoplankton,
+sm_phytoplankton,NA,
+discards_offal,NA,
+pelagic_detritus,NA,
+benthic_detritus,NA,
